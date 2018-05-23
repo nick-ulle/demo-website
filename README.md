@@ -36,8 +36,8 @@ even have [instructions to get started][gh-pages]. The basic steps are:
     `REPOSITORY` with the name of the repository you created.
 
 As an example, my GitHub username is `nick-ulle`, and this README is in a
-repository called `sta160-demo-website`. You can view the demo website at
-<https://nick-ulle.github.io/sta160-demo-website>.
+repository called `sta160-website-demo`. You can view the demo website at
+<https://nick-ulle.github.io/sta160-website-demo>.
 
 There are other hosts that provide more features, but most of them aren't free.
 Search online if you want to learn more. For students, the [GitHub Student
