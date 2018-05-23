@@ -1,0 +1,22 @@
+body {
+  /* This is a comment. */
+
+  /* Add left and right margins, with text centered on the page. */
+  margin: 40px auto;
+  max-width: 55em;
+
+  /* Increase spacing between regular text lines. */
+  line-height: 1.5;
+
+  /* Use gray text to decrease contrast (high contrast is hard on eyes). */
+  color: #444;
+
+  /* Set no padding at top/bottom and a little padding at left and right. */
+  padding: 0 10px;
+}
+
+
+h1,h2,h3 {
+  /* Increase spacing between header text lines. */
+  line-height: 1.2;
+}
