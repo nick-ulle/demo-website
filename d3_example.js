@@ -44,7 +44,7 @@ function convertCols(d) {
 }
 
 
-d3.csv("/data.csv", convertCols).then(function(data) {
+d3.csv("data.csv", convertCols).then(function(data) {
   // This section runs after the data is loaded.
 
   // -------------------- Create Axes --------------------
